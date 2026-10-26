@@ -1,6 +1,7 @@
 # LabVault NG - Nigeria Lab Resilience Network
 Live Demo: PASTE YOUR VERCEL LINK HERE
 GitHub: https://github.com/YOURUSERNAME/labvault-ng-resilience-platform
+Vercel link: https://labvault-ng-resilience-platform.vercel.app/
 
 ## Problem Statement
 Nigerian molecular labs face 2-6 month delays for reagents (Taq, enzymes) while same reagents expire unused in neighboring labs. No sharing system exists. Simultaneously, erratic power destroys -20/-80°C cold-chain samples without alerts.
