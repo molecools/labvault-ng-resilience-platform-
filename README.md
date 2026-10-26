@@ -17,4 +17,4 @@ Nigerian molecular labs face 2-6 month delays for reagents (Taq, enzymes) while 
 4. Check Alerts Log
 
 Built with Next.js + Tailwind - Manus Free Tier optimized.
-Student: Awolaja Monk Olamide
+Student: Awolaja Olamide
